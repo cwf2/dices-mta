@@ -5,6 +5,9 @@
 from dicesapi.text import Passage
 import re
 
+listpat = re.compile(r"\[(('.+?')(, )?)+\]")
+
+
 tagtype = {
     # add special tag for seneca speeches
     'trag': 'tragedy',
@@ -91,6 +94,15 @@ def buildFeatures(speech, featureset, normalize=True):
         
     return vector
 
+
+def deserializeLists(string):
+    '''deserialize stringified lists'''
+    
+    if isinstance(string, str) and listpat.fullmatch(string):
+        return [item.strip("'") for item in string[1:-1].split(', ')]
+    else:
+        return string
+    
 
 class SenecaSpeech(object):
     '''A pseudo-speech object to hold senecan passages
