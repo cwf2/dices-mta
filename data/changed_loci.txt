@@ -1,0 +1,10 @@
+author	work	l_fi_old	l_la_old	l_fi_new	l_la_new
+Apollonius	Argonautica	3.727	3.739	3.727	3.738
+Homer	Odyssey	10.456	10.465	10.457	10.465
+Homeric Hymns	4 To Hermes	526b	568	526	568
+Nonnus	Dionysiaca	40.542	40.569	40.542	40.568
+Oppian	Halieutica	4.233	2.238	4.233	4.238
+Ovid	Metamorphoses	1.545	1.546	1.545	1.547
+Ovid	Metamorphoses	4.793	4.803	4.793	4.801
+Ovid	Metamorphoses	14.383	14.385	14.383	14.384
+Statius	Thebaid	4.832	4.850	4.825	4.842
