@@ -1,4 +1,4 @@
-[{"id":4481,
+[{"id":4486,
   "author": "Eudocia",
   "title": "Homerocentones",
   "loci": "598-605",
@@ -15,7 +15,7 @@
    ]
 },
 
-{"id":4546,
+{"id":4551,
   "author": "Eudocia",
   "title": "Homerocentones",
   "loci": "2059-2064",
@@ -29,7 +29,7 @@
    ]
 },
    
-{"id":4547,
+{"id":4552,
   "author": "Eudocia",
   "title": "Homerocentones",
   "loci": "2068-2076",
@@ -46,7 +46,7 @@
    ]
 },
 
-{"id":4551,
+{"id":4556,
   "author": "Eudocia",
   "title": "Homerocentones",
   "loci": "2187-2188",
@@ -56,7 +56,7 @@
    ]
 },
 
-{"id":4414,
+{"id":4418,
   "author": "Eudocia",
   "title": "St. Cyprian",
   "loci": "1.1.51-1.1.52",
@@ -66,7 +66,7 @@
    ]
 },
 
-{"id":3694,
+{"id":3701,
   "author": "Nonnus",
   "title": "Paraphrase",
   "loci": "2.19-2.20",
